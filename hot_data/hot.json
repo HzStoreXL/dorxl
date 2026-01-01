@@ -200,6 +200,62 @@
         "order": 1
     },
     {
+        "family_name": "BIZ Postpaid",
+        "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
+        "is_enterprise": true,
+        "variant_name": "BIZ",
+        "option_name": "BIZ Starter - NEW",
+        "order": 2
+    },
+    {
+        "family_name": "BIZ Postpaid",
+        "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
+        "is_enterprise": true,
+        "variant_name": "BIZ",
+        "option_name": "BIZ Infinity",
+        "order": 3
+    },
+    {
+        "family_name": "BIZ Postpaid",
+        "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
+        "is_enterprise": true,
+        "variant_name": "BIZ",
+        "option_name": "BIZ Maxima",
+        "order": 4
+    },
+    {
+        "family_name": "BIZ Postpaid",
+        "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
+        "is_enterprise": true,
+        "variant_name": "BIZ",
+        "option_name": "BIZ Pro",
+        "order": 5
+    },
+    {
+        "family_name": "BIZ Postpaid",
+        "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
+        "is_enterprise": true,
+        "variant_name": "BIZ",
+        "option_name": "BIZ Prime",
+        "order": 6
+    },
+    {
+        "family_name": "BIZ Postpaid",
+        "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
+        "is_enterprise": true,
+        "variant_name": "BIZ",
+        "option_name": "BIZ Starter",
+        "order": 7
+    },
+    {
+        "family_name": "BIZ Postpaid",
+        "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
+        "is_enterprise": true,
+        "variant_name": "BIZ",
+        "option_name": "BIZ Basi",
+        "order": 8
+    },
+    {
         "family_name": "Conference",
         "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
         "is_enterprise": true,
