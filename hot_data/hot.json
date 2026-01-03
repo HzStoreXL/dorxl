@@ -448,6 +448,78 @@
         "order": 1
     },
     {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "Bonus Kuota s/d 3X Lipat!",
+        "order": 2
+    },
+    {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "Big Screen 30 days + 5GB",
+        "order": 3
+    },
+    {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "Mobile 30 days + 5GB",
+        "order": 4
+    },
+    {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "Xtra Unlimited, 10 days",
+        "order": 5
+    },
+    {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "Bonus Kuota 2GB",
+        "order": 6
+    },
+    {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "Bonus Kuota 1GB",
+        "order": 7
+    },
+    {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "Bonus Kuota 500MB",
+        "order": 8
+    },
+    {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "Bonus Kuota 250MB",
+        "order": 9
+    },
+    {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "Bonus Kuota 100MB",
+        "order": 10
+    },
+    {
         "family_name": "Sinergi Packages",
         "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
         "is_enterprise": true,
