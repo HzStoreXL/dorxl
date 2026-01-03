@@ -376,6 +376,14 @@
         "order": 9
     },
     {
+        "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
+        "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
+        "is_enterprise": false,
+        "variant_name": "Bonus Xtra Combo Plus 15GB",
+        "option_name": "Games",
+        "order": 1
+    },
+    {
         "family_name": "Xtra Combo Plus",
         "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
         "is_enterprise": false,
