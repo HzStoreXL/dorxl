@@ -280,6 +280,14 @@
         "order": 3
     },
     {
+        "family_name": "Swadaya Xlalu Untukmu",
+        "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+        "is_enterprise": true,
+        "variant_name": "Swadaya Xlalu Untukmu",
+        "option_name": "Swadaya XLalu Untukmu 1GB",
+        "order": 1
+    },
+    {
         "family_name": "Xtra Combo Plus",
         "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
         "is_enterprise": false,
