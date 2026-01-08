@@ -306,10 +306,10 @@
     {
         "family_name": "Swadaya Xlalu Untukmu",
         "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
-        "is_enterprise": false,
-        "variant_name": "HYFE",
-        "option_name": "FUP 50GB",
-        "order": 1
+        "is_enterprise": true,
+        "variant_name": "Swadaya Xlalu Untukmu",
+        "option_name": "13GB",
+        "order": 4
     },
     {
         "family_name": "Swadaya Xlalu Untukmu",
@@ -322,10 +322,10 @@
     {
         "family_name": "HYFE",
         "family_code": "57d38719-1f39-4eda-8137-270df918cbe5",
-        "is_enterprise": true,
-        "variant_name": "Swadaya Xlalu Untukmu",
-        "option_name": "25GB",
-        "order": 5
+        "is_enterprise": false,
+        "variant_name": "HYFE",
+        "option_name": "FUP 50GB",
+        "order": 1
     },
     {
         "family_name": "Kuota Aplikasi Xtra Combo Plus 10GB",
