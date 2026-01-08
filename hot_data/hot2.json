@@ -68,7 +68,7 @@
         "detail": "\nDescriptionOnline Collaboration and Meetings Easier with Conference Plans.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Conference",
+                "family_name": "Conference - Conference",
                 "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
                 "is_enterprise": false,
                 "migration_type": "NONE",
