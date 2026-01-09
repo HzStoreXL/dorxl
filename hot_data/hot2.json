@@ -65,7 +65,7 @@
     {
         "name": "myPRIO X Unlimited",
         "price": "Rp90000",
-        "detail": "\nUnlimited WA & Spotify.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "detail": "\nUnlimited Data and Unlimited Call to XL/AXIS.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "myPRIO X Unlimited",
@@ -74,7 +74,7 @@
                 "migration_type": "NONE",
                 "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
                 "option_name": "FUP 50GB",
-                "order": 26
+                "order": 1
             },
             {
                 "family_name": "QRIS D 0",
