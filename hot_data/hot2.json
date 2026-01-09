@@ -117,7 +117,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 43000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
@@ -147,7 +147,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 65000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
@@ -177,7 +177,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 195000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
@@ -207,7 +207,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 145000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
@@ -237,7 +237,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 85000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
