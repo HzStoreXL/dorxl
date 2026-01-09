@@ -63,16 +63,16 @@
         "amount_idx": -1
     },
     {
-        "name": "HYFE",
+        "name": "Unlimited Mobile Data Plan",
         "price": "Rp90000",
         "detail": "\nUnlimited Data and Unlimited Call to XL/AXIS.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "HYFE",
+                "family_name": "Unlimited Voice to XL and Axis",
                 "family_code": "57d38719-1f39-4eda-8137-270df918cbe5",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "DEFAULT",
+                "variant_code": "a0d608d9-84bb-4c26-a4e0-725dac09036c",
                 "option_name": "FUP 50GB",
                 "order": 1
             },
