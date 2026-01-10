@@ -63,17 +63,17 @@
         "amount_idx": -1
     },
     {
-        "name": "myPRIO X Unlimited",
-        "price": "Rp80000",
+        "name": "PRIO Silver",
+        "price": "Rp65000",
         "detail": "\nPRIO plan with Big Data 30GB, 100 Min Talk to Other Operator, Unlimited.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "myPRIO X Unlimited",
-                "family_code": "19134305-27f1-48ea-be9d-afc425e60aca",
+                "family_name": "PRIO Silver",
+                "family_code": "e5675dc0-3b4b-4d23-ae45-4dbd22228849",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "18900b67-c447-4e31-b9e1-ab4335a1b512",
-                "option_name": "PRIO Silver",
+                "variant_code": "e3336bcc-cc61-409e-ac4c-c89ed621dbf5",
+                "option_name": "PRIO Silver, 1 Month",
                 "order": 1
             },
             {
@@ -88,7 +88,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 80000,
+        "overwrite_amount": 65000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
