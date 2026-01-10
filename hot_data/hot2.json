@@ -116,7 +116,7 @@
                 "order": 11
             }
         ],
-        "payment_for": "ANY",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 17000,
         "token_confirmation_idx": 1,
