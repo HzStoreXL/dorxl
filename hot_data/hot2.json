@@ -76,15 +76,6 @@
                 "option_name": "Spesial Nataru 10GB",
                 "order": 1
             },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "3768520d-ea07-49c7-b9a5-3c57e28255ce",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "9e33c21b-521a-4470-90f5-882018eeb7b5",
-                "option_name": "QRIS D 0",
-                "order": 1
-            }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": true,
