@@ -8,9 +8,9 @@ def validate_puk(
     path = "api/v8/infos/validate-puk"
 
     raw_payload = {
-        "is_enterprise": False,
+        "is_enterprise": True,
         "puk": puk,
-        "is_enc": False,
+        "is_enc": True,
         "msisdn": msisdn,
         "lang": "en"
     }
