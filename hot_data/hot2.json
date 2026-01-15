@@ -63,18 +63,18 @@
         "amount_idx": -1
     },
     {
-        "name": "BIZ Optimus",
-        "price": "Rp3499000",
-        "detail": "\nOptimized business communication and productivity with BIZ Optimus.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "name": "BIZ Data+",
+        "price": "Rp57000",
+        "detail": "\nEmpower Your Business Communication with BIZ Data+ Packages. Enjoy.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "BIZ Optimus",
-                "family_code": "ebdb4ebe-cb58-4e55-927b-8f1bba44b5a6",
+                "family_name": "BIZ Data+",
+                "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
                 "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "89179bda-0274-42d6-88ea-c3899774a676",
-                "option_name": "BIZ Optimus 1.5TB",
-                "order": 1
+                "variant_code": "e8ea6f67-397b-48c1-b87c-980c72f91e64",
+                "option_name": "BIZ Data+ 12GB",
+                "order": 4
             },
             {
                 "family_name": "QRIS D 0",
@@ -88,7 +88,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 3499000,
+        "overwrite_amount": 57000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
