@@ -63,32 +63,32 @@
         "amount_idx": -1
     },
     {
-        "name": "BIZ Data+",
-        "price": "Rp57000",
-        "detail": "\nEmpower Your Business Communication with BIZ Data+ Packages. Enjoy.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "name": "Special For You",
+        "price": "Rp50000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "BIZ Data+",
-                "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
-                "is_enterprise": true,
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "e8ea6f67-397b-48c1-b87c-980c72f91e64",
-                "option_name": "BIZ Data+ 12GB",
-                "order": 4
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 20GB",
+                "order": 7
             },
             {
                 "family_name": "QRIS D 0",
                 "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
                 "option_name": "QRIS D 0",
                 "order": 11
             }
         ],
-        "payment_for": "ANY",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 57000,
+        "overwrite_amount": 50000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
