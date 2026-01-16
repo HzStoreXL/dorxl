@@ -107,13 +107,13 @@
                 "order": 7
             },
             {
-                "family_name": "",
+                "family_name": "Special For You",
                 "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "",
+                "variant_name": "Special For You",
                 "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
-                "option_name": "",
+                "option_name": "FlexMax 20GB",
                 "order": 7
             }
         ],
