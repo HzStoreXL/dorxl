@@ -108,16 +108,16 @@
             },
             {
                 "family_name": "",
-                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
-                "is_enterprise": false,
+                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
+                "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
                 "option_name": "",
                 "order": 1
             }
         ],
         "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": true,
+        "ask_overwrite": false,
         "overwrite_amount": 50000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
