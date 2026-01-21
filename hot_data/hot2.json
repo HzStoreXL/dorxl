@@ -527,6 +527,36 @@
         "amount_idx": -1
     },
     {
+        "name": "BIZ Prepaid",
+        "price": "Rp49000",
+        "detail": "\nand Big Quota Internet in Prioritised Network, Unlimited Voice SMS to XL.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "BIZ Prepaid",
+                "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
+                "option_name": "BIZ Starter",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 49000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "family buat hide2 paket ADD ON - prepaid",
         "price": "Rp20000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
