@@ -529,12 +529,12 @@
     {
         "name": "BIZ Prepaid",
         "price": "Rp49000",
-        "detail": "\nand Big Quota Internet in Prioritised Network, Unlimited Voice SMS to XL.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "detail": "\nEmpower Your Business Communication Limitless with BIZ Packages.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "BIZ Prepaid",
                 "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
-                "is_enterprise": true,
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
                 "option_name": "BIZ Starter",
