@@ -534,7 +534,7 @@
             {
                 "family_name": "BIZ E-Commerce",
                 "family_code": "ae2707e6-2996-45f8-944a-8a391e956f28",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "4cca59a2-1df2-43ea-9c98-3341c35a31e5",
                 "option_name": "BIZ Starter",
@@ -554,7 +554,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 49000,
-        "token_confirmation_idx": 1,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
