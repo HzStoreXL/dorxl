@@ -527,6 +527,36 @@
         "amount_idx": -1
     },
     {
+        "name": "Conference",
+        "price": "Rp11000",
+        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+                "option_name": "Conference 15GB",
+                "order": 3
+            },
+            {
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "is_enterprise": true,
+                "migration_type": "PRIOH_TO_PRIO",
+                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+                "option_name": "Conference 15GB",
+                "order": 3
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 11000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "family buat hide2 paket ADD ON - prepaid",
         "price": "Rp20000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
