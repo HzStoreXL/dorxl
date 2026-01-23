@@ -528,7 +528,7 @@
     },
     {
         "name": "Conference",
-        "price": "Rp10000",
+        "price": "Rp11000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -548,13 +548,13 @@
                 "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
                 "option_name": "Conference 15GB",
                 "order": 3,
-                "price": 0
+                "price": 11000
             }
         ],
-        "payment_for": "BUY_PACKAGE",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 10000,
-        "token_confirmation_idx": 0,
+        "overwrite_amount": 11000,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
