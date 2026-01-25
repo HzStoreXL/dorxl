@@ -77,14 +77,14 @@
                 "order": 1
             },
             {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
                 "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "",
-                "order": 12
+                "variant_name": "1",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 150GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
