@@ -521,39 +521,8 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 65000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "EduConference",
-        "price": "Rp10",
-        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "EduConference",
-                "family_code": "b249f4d5-bcca-4f11-81f4-c5bf26d61664",
-                "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "e3eef70d-028d-45c8-a52c-fc358ae2f0dc",
-                "option_name": "30GB - Rp 10",
-                "order": 1
-            },
-            {
-                "family_name": "Conference",
-                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
-                "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 15GB",
-                "order": 3,
-                "price": 10000
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 10,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
