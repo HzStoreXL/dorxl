@@ -560,7 +560,7 @@
     {
         "name": "Conference",
         "price": "Rp11000",
-        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "detail": "\nDescriptionOnline Collaboration and Meetings Easier with Conference Plans.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "Conference",
@@ -582,7 +582,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 11000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
