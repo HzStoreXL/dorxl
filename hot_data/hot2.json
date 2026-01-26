@@ -425,10 +425,10 @@
                 "order": 11
             }
         ],
-        "payment_for": "MAIN_PACKAGE_NOT_SHOW",
+        "payment_for": "MAIN_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 35000,
-        "token_confirmation_idx": 1,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
