@@ -78,19 +78,21 @@
                 "order": 1
             },
             {
-                "family_name": "Special For You",
-                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "family_name": "QRIS D 0",
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
-                "option_name": "FlexMax 150GB",
-                "order": 1
+                "variant_name": "QRIS D 0",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "option_name": "",
+                "order": 1,
+                "price": 0
             }
         ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": true,
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
         "overwrite_amount": 150000,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -108,13 +110,15 @@
                 "order": 2
             },
             {
-                "family_name": "XL PASS",
-                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
+                "family_name": "QRIS D 0",
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "XL PASS 30 days",
-                "order": 4
+                "variant_name": "QRIS D 0",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "option_name": "",
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -139,13 +143,14 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 12
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -170,13 +175,14 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 12
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -201,13 +207,14 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 12
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -232,13 +239,14 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 12
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -263,13 +271,14 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 12
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -293,13 +302,15 @@
                 "order": 8
             },
             {
-                "family_name": "Kuota Aplikasi BIZ 2GB",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_name": "QRIS D 0",
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "Spotify 2GB",
-                "order": 14
+                "variant_name": "QRIS D 0",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "option_name": "",
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -324,13 +335,14 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 12
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -355,13 +367,14 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 12
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -386,13 +399,14 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 12
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -423,7 +437,8 @@
                 "variant_name": "QRIS D 0",
                 "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 1
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -448,17 +463,18 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 12
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": true,
+        "ask_overwrite": false,
         "overwrite_amount": 25000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
