@@ -478,30 +478,15 @@
                 "order": 1
             },
             {
-  "timestamp": "2026-01-26T17:32:37.032617",
-  "config": {
-    "base_url": "http://localhost:8000",
-    "max_attempts": 100,
-    "target_prefixes": true
-  },
-  "statistics": {},
-  "found_codes": [
-    {
-      "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
-      "data": {
-        "status": "success",
-        "data": {
-          "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
-          "name": "BIZ Prime - NEW",
-          "price": 90000,
-          "quota": "Unlimited",
-          "validity": "30 days",
-          "category": "BIZ",
-          "type": "Postpaid",
-          "status": "active"
-        }
-      }
-    },
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "PACKAGE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
