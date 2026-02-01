@@ -480,32 +480,34 @@
         "amount_idx": -1
     },
     {
-        "name": "BIZ Postpaid",
-        "price": "Rp90000",
-        "detail": "\nUnlimited Voice SMS to XL, Unlimited Apps Gojek & Waze.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "name": "Xtra Combo Flex",
+        "price": "Rp22000",
+        "detail": "\nThe package is valid for Xtra Combo Flex subscriber.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "BIZ",
-                "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
-                "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "853ae1c9-f383-4a47-b5b4-75e297e5bf16",
-                "option_name": "BIZ Prime - NEW",
+                "family_name": "Xtra Combo Flex",
+                "family_code": "4a1acab0-da54-462c-84b1-25fd0efa9318",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "56369dfb-ab8b-4c03-a37b-a2cd395be6eb",
+                "option_name": "Xtra Combo Flex S",
                 "order": 1
             },
             {
-                "family_name": "BIZ Postpaid",
-                "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
-                "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "853ae1c9-f383-4a47-b5b4-75e297e5bf16",
-                "option_name": "BIZ Prime - NEW",
-                "order": 1
+                "family_name": "QRIS D 0",
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "option_name": "",
+                "order": 1,
+                "price": 0
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 90000,
+        "overwrite_amount": 22000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
