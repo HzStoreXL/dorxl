@@ -69,7 +69,7 @@
         "detail": "Membuat masa aktif menjadi 1 tahun dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
-                "family_name": "Akrab",
+                "family_name": "Bundling",
                 "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
                 "is_enterprise": false,
                 "migration_type": "NONE",
