@@ -704,6 +704,36 @@
         "amount_idx": -1
     },
     {
+        "name": "Special Holiday",
+        "price": "Rp25000",
+        "detail": "\nTerms & Conditions of Spesial Nataru 10GB, 5 days- Package can only be purchased.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special Holiday",
+                "family_code": "3768520d-ea07-49c7-b9a5-3c57e28255ce",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "9e33c21b-521a-4470-90f5-882018eeb7b5",
+                "option_name": "Spesial Nataru 10GB",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 25000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "family buat hide2 paket ADD ON - prepaid",
         "price": "Rp20000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
