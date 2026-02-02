@@ -66,7 +66,7 @@
     {
         "name": "Masa Aktif 1 TAHUN",
         "price": "Rp0",
-        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
+        "detail": "Membuat masa aktif menjadi 1 tahun dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
                 "family_name": "Akrab",
