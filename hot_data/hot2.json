@@ -736,6 +736,36 @@
         "amount_idx": -1
     },
     {
+        "name": "BIZ Prepaid",
+        "price": "Rp49000",
+        "detail": "\nEmpower Your Business Communication Limitless with BIZ Packages.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "BIZ Package",
+                "family_code": "9bab710b-6bcb-486b-980f-46f434c31bc4",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "63585a4a-60db-4193-bbe4-1d3425046741",
+                "option_name": "BIZ Starter",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 49000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "family buat hide2 paket ADD ON - prepaid",
         "price": "Rp20000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
