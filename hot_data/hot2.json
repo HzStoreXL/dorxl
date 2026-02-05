@@ -750,20 +750,20 @@
                 "order": 1
             },
             {
-                "family_name": "",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
+                "family_name": "Kuota Aplikasi BIZ 2GB",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_name": "",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "",
-                "order": 28
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "Vidio 2GB",
+                "order": 11,
+                "price": 0
             }
         ],
-        "payment_for": "BUY_PACKAGE",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 49000,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
