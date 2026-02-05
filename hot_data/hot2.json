@@ -736,26 +736,26 @@
         "amount_idx": -1
     },
     {
-        "name": "BIZ Prepaid",
-        "price": "Rp49000",
-        "detail": "\nEmpower Your Business Communication Limitless with BIZ Packages.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "name": "Flex & FlexMax",
+        "price": "Rp45000",
+        "detail": "\nFlexMax Package Terms & Conditions:- The package is valid for XL Prepaid.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "BIZ Package",
-                "family_code": "9bab710b-6bcb-486b-980f-46f434c31bc4",
+                "family_name": "Flex & FlexMax",
+                "family_code": "2c292a32-7749-4947-8ab2-1d83928eae70",
                 "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "63585a4a-60db-4193-bbe4-1d3425046741",
-                "option_name": "BIZ Starter",
-                "order": 1
+                "variant_code": "e0f9605b-5dad-486e-a378-23728",
+                "option_name": "FlexMax 15GB",
+                "order": 10
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "9bab710b-6bcb-486b-980f-46f434c31bc4",
-                "is_enterprise": true,
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "63585a4a-60db-4193-bbe4-1d3425046741",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
                 "order": 1,
                 "price": 0
@@ -763,7 +763,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 49000,
+        "overwrite_amount": 45000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
