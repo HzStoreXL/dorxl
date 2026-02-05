@@ -743,7 +743,7 @@
             {
                 "family_name": "BIZ Package",
                 "family_code": "9bab710b-6bcb-486b-980f-46f434c31bc4",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "63585a4a-60db-4193-bbe4-1d3425046741",
                 "option_name": "BIZ Starter",
