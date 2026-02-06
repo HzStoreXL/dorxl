@@ -768,7 +768,7 @@
     },
     {
         "name": "Flex & FlexMax",
-        "price": "Rp75000",
+        "price": "Rp76000",
         "detail": "\nFlexMax Package Terms & Conditions:- The package is valid for XL Prepaid.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -794,7 +794,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 75000,
+        "overwrite_amount": 76000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
