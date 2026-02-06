@@ -15,19 +15,19 @@
                 "order": 19
             },
             {
-                "family_name": "XL Ultra 5G+",
-                "family_code": "4632cfca-72d8-417e-b790-d7ab3a7825f6",
+                "family_name": "Bundling",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
-                "option_name": "500GB",
-                "order": 3,
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
+                "option_name": "45GB Setahun",
+                "order": 2,
                 "price": 0
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 300000,
+        "overwrite_amount": 0,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
