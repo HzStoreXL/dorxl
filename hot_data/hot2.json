@@ -736,6 +736,36 @@
         "amount_idx": -1
     },
     {
+        "name": "XTRA Combo Plus",
+        "price": "Rp73000",
+        "detail": "\nXtra Combo VIP Plus Gift  with rollover quota, immediate access to.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "VIP",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 15GB",
+                "order": 5
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 73000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "family buat hide2 paket ADD ON - prepaid",
         "price": "Rp20000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
