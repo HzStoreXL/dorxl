@@ -175,6 +175,7 @@ def main():
             elif choice == "4":
                 show_hot_menu2()
             elif choice == "5":
+                get_packages_by_family("5dab52d5-6f02-4678-b72f-088396ceb113")
                 option_code = input("Enter option code (or '99' to cancel): ")
                 if option_code == "99":
                     continue
