@@ -25,7 +25,7 @@
                 "price": 0
             }
         ],
-        "payment_for": "BUY_PACKAGE",
+        "payment_for": "MAIN_PACKAGE_NOT_SHOW",
         "ask_overwrite": false,
         "overwrite_amount": 900000,
         "token_confirmation_idx": 0,
