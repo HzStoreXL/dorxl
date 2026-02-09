@@ -768,6 +768,36 @@
         "amount_idx": -1
     },
     {
+        "name": "Xtra Combo Plus",
+        "price": "Rp57000",
+        "detail": "\nEnjoy large quotas and unlimited access to productivity apps!Terms.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Reguler",
+                "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "63f1a0c3-cf0a-41a4-a4ca-654a363ad99e",
+                "option_name": "10GB",
+                "order": 30
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "262041ac-3033-461f-b573-80560d929880",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "e464ce44-f86e-47d5-ba20-1a1f282d3733",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 57000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "family buat hide2 paket ADD ON - prepaid",
         "price": "Rp20000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
