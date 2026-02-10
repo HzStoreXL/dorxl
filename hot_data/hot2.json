@@ -802,7 +802,7 @@
     {
         "name": "Akrab Big",
         "price": "Rp65000",
-        "detail": "\nTerms & Conditions1. The package is valid for customers who are currently subscr.\nSupported payment: E-wallet & QRIS.",
+        "detail": "\nLarge internet quota to SHARE with family and friends, with personal.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "Akrab",
@@ -825,10 +825,10 @@
                 "price": 0
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 65000,
-        "token_confirmation_idx": 1,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
