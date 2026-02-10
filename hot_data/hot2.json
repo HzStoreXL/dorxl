@@ -783,10 +783,10 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "262041ac-3033-461f-b573-80560d929880",
-                "is_enterprise": false,
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "e464ce44-f86e-47d5-ba20-1a1f282d3733",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
                 "option_name": "QRIS D 0",
                 "order": 11
             }
