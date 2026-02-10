@@ -800,6 +800,38 @@
         "amount_idx": -1
     },
     {
+        "name": "Flex & FlexMax",
+        "price": "Rp80000",
+        "detail": "\nTerms & Conditions1. The package is valid for customers who are currently subscr.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Flex & FlexMax",
+                "family_code": "2c292a32-7749-4947-8ab2-1d83928eae70",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "e0f9605b-5dad-486e-a378-23728",
+                "option_name": "FLEX L+ - 34GB",
+                "order": 6
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "option_name": "",
+                "order": 1,
+                "price": 0
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 80000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "family buat hide2 paket ADD ON - prepaid",
         "price": "Rp20000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
