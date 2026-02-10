@@ -800,12 +800,12 @@
         "amount_idx": -1
     },
     {
-        "name": "Flex & FlexMax",
+        "name": "",
         "price": "Rp70000",
         "detail": "\nTerms & Conditions1. The package is valid for customers who are currently subscr.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "",
+                "family_name": "Flex & FlexMax",
                 "family_code": "2c292a32-7749-4947-8ab2-1d83928eae70",
                 "is_enterprise": false,
                 "migration_type": "NONE",
