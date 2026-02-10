@@ -801,7 +801,7 @@
     },
     {
         "name": "Flex & FlexMax",
-        "price": "Rp80000",
+        "price": "Rp70000",
         "detail": "\nTerms & Conditions1. The package is valid for customers who are currently subscr.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -810,8 +810,8 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "e0f9605b-5dad-486e-a378-23728",
-                "option_name": "FLEX L+ - 34GB",
-                "order": 6
+                "option_name": "FLEX L - 25GB",
+                "order": 7
             },
             {
                 "family_name": "QRIS D 0",
@@ -827,7 +827,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 80000,
+        "overwrite_amount": 70000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
