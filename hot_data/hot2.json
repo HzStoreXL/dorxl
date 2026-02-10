@@ -800,18 +800,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Flex & FlexMax",
-        "price": "Rp100000",
+        "name": "Akrab Big",
+        "price": "Rp65000",
         "detail": "\nTerms & Conditions1. The package is valid for customers who are currently subscr.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Flex & FlexMax",
-                "family_code": "2c292a32-7749-4947-8ab2-1d83928eae70",
+                "family_name": "Akrab",
+                "family_code": "6e469cb2-443d-402f-ba77-681b032ead6a",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "e0f9605b-5dad-486e-a378-23728",
-                "option_name": "FlexMax 65GB",
-                "order": 5
+                "variant_code": "52549678-a55e-449f-baf2-fd620c249fc3",
+                "option_name": "15GB for 2 Members",
+                "order": 6
             },
             {
                 "family_name": "QRIS D 0",
@@ -827,7 +827,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 100000,
+        "overwrite_amount": 65000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
