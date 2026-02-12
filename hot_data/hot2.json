@@ -20,14 +20,14 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
-                "option_name": "500GB",
-                "order": 3,
+                "option_name": "250GB",
+                "order": 2,
                 "price": 0
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 300000,
+        "overwrite_amount": 200000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
