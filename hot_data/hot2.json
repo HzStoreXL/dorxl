@@ -832,18 +832,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Conference",
-        "price": "Rp1000",
-        "detail": "\nDescriptionOnline Collaboration and Meetings Easier with Conference Plans.\nSupported payment: E-wallet & QRIS.",
+        "name": "Sinergi Packages",
+        "price": "Rp85000",
+        "detail": "\nWork For The Country Of Worry Free Communication With Synergy Package.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Conference",
-                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "family_name": "Sinergi Packages",
+                "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
                 "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 15GB",
-                "order": 3
+                "migration_type": "NONE",
+                "variant_code": "3fecee52-6b42-4d44-b6da-73553d8a1d30",
+                "option_name": "Sinergi 22GB, Rp 85,000",
+                "order": 1
             },
             {
                 "family_name": "Apps Quota Xtra Combo Plus 2GB",
@@ -857,7 +857,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": true,
-        "overwrite_amount": 1000,
+        "overwrite_amount": 85000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
