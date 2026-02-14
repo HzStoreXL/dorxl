@@ -833,7 +833,7 @@
     },
     {
         "name": "Sinergi Packages",
-        "price": "Rp85000",
+        "price": "Rp86000",
         "detail": "\nWork For The Country Of Worry Free Communication With Synergy Package.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -846,18 +846,18 @@
                 "order": 1
             },
             {
-                "family_name": "QRIS D 0",
-                "family_code": "1fe292a5-5fef-430e-917b-e0eaeeb89f93",
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "79ee96f3-5fdd-453a-98bf-6d8bf6d561a8",
-                "option_name": "QRIS D 0",
-                "order": 1
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": true,
-        "overwrite_amount": 85000,
+        "ask_overwrite": false,
+        "overwrite_amount": 86000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
