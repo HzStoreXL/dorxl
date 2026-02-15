@@ -833,7 +833,7 @@
     },
     {
         "name": "Flex & FlexMax",
-        "price": "Rp75000",
+        "price": "Rp76000",
         "detail": "\nFlexMax Package Terms & Conditions:- The package is valid for XL Prepaid.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -846,18 +846,18 @@
                 "order": 7
             },
             {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 75000,
+        "overwrite_amount": 76000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
