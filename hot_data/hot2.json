@@ -839,7 +839,7 @@
             {
                 "family_name": "Flex & FlexMax",
                 "family_code": "2c292a32-7749-4947-8ab2-1d83928eae70",
-                "is_enterprise": true,
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "e0f9605b-5dad-486e-a378-23728",
                 "option_name": "FLEX L - 25GB",
