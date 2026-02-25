@@ -5,13 +5,13 @@
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
-                "family_name": "Vidio",
-                "family_code": "2a25d9c7-5087-4efe-a22e-e754c8885515",
+                "family_name": "Viu Premium",
+                "family_code": "842d882a-5f7a-4b52-a2f9-db35e557321b",
                 "is_enterprise": false,
                 "migration_type": "PRIOH_TO_PRIO",
-                "variant_name": "All Screen",
-                "variant_code": "d0846b29-3673-4828-9631-f0b8ed4c5832",
-                "option_name": "All Screen 30 days + 5GB",
+                "variant_name": "Viu Premium",
+                "variant_code": "589a2e7a-ad7a-411e-89df-49f8118e0026",
+                "option_name": "Viu Premium + 5GB",
                 "order": 1
             },
             {
@@ -27,7 +27,7 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 300000,
+        "overwrite_amount": 133500,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
