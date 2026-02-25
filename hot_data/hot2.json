@@ -5,14 +5,14 @@
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
-                "family_name": "Viu Premium",
-                "family_code": "842d882a-5f7a-4b52-a2f9-db35e557321b",
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
                 "is_enterprise": false,
                 "migration_type": "PRIOH_TO_PRIO",
-                "variant_name": "Viu Premium",
-                "variant_code": "589a2e7a-ad7a-411e-89df-49f8118e0026",
-                "option_name": "Viu Premium + 5GB",
-                "order": 1
+                "variant_name": "Reguler",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "125GB",
+                "order": 24
             },
             {
                 "family_name": "XL Ultra 5G+",
