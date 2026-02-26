@@ -5,14 +5,14 @@
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "family_name": "1.1 Youtube Special",
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "Reguler",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "18GB",
-                "order": 23
+                "variant_name": "1.1 Youtube Special",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "option_name": "YouTube 1.5GB",
+                "order": 1
             },
             {
                 "family_name": "XL PASS",
@@ -27,7 +27,7 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 861500,
+        "overwrite_amount": 800000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
