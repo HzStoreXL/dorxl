@@ -5,14 +5,14 @@
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
-                "family_name": "1.1 Youtube Special",
-                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "family_name": "Akrab",
+                "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "1.1 Youtube Special",
-                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
-                "option_name": "YouTube 1.5GB",
-                "order": 1
+                "variant_name": "Akrab",
+                "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
+                "option_name": "14GB for 2 Members",
+                "order": 62
             },
             {
                 "family_name": "XL PASS",
