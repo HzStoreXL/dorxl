@@ -8,7 +8,7 @@
                 "family_name": "Vidio",
                 "family_code": "b72a709a-cf8e-41a2-a0e1-eab2af4b3116",
                 "is_enterprise": false,
-                "migration_type": "PRIOH_TO_PRIO",
+                "migration_type": "NONE",
                 "variant_name": "All Screen",
                 "variant_code": "d83da22d-e908-4cb4-b5dc-1243d4b95719",
                 "option_name": "All Screen 30 days + 5GB",
