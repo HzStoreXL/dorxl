@@ -6,11 +6,11 @@
         "packages": [
             {
                 "family_name": "Vidio",
-                "family_code": "2a25d9c7-5087-4efe-a22e-e754c8885515",
+                "family_code": "b72a709a-cf8e-41a2-a0e1-eab2af4b3116",
                 "is_enterprise": false,
                 "migration_type": "PRIOH_TO_PRIO",
                 "variant_name": "All Screen",
-                "variant_code": "d0846b29-3673-4828-9631-f0b8ed4c5832",
+                "variant_code": "d83da22d-e908-4cb4-b5dc-1243d4b95719",
                 "option_name": "All Screen 30 days + 5GB",
                 "order": 1
             },
