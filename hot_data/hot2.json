@@ -864,18 +864,18 @@
         "amount_idx": -1
     },
     {
-        "name": "FlexMini",
-        "price": "Rp31000",
-        "detail": "\nThis package is valid for XL Prepaid customers.2.\nSupported payment: E-wallet & QRIS.",
+        "name": "Conference",
+        "price": "Rp11000",
+        "detail": "\nDescriptionOnline Collaboration and Meetings Easier with Conference Plans.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Weekly",
-                "family_code": "22cfa6c3-ba3f-4f4b-8837-e7fe247d7da8",
-                "is_enterprise": false,
-                "migration_type": "NONE",
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "is_enterprise": true,
+                "migration_type": "PRIOH_TO_PRIO",
                 "variant_code": "046cd977-6fd5-4069-92c0-9ccf813fb71f",
-                "option_name": "FlexMini 8GB",
-                "order": 5
+                "option_name": "Conference 15GB",
+                "order": 3
             },
             {
                 "family_name": "Apps Quota Xtra Combo Plus 2GB",
@@ -889,7 +889,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 31000,
+        "overwrite_amount": 11000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
