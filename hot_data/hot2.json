@@ -864,18 +864,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Flex & FlexMax",
-        "price": "Rp71000",
-        "detail": "\nFlexMax Package Terms & Conditions:- The package is valid for XL Prepaid.\nSupported payment: E-wallet & QRIS.",
+        "name": "FlexMini",
+        "price": "Rp31000",
+        "detail": "\nThis package is valid for XL Prepaid customers.2.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Flex & FlexMax",
-                "family_code": "2c292a32-7749-4947-8ab2-1d83928eae70",
-                "is_enterprise": true,
+                "family_name": "Weekly",
+                "family_code": "22cfa6c3-ba3f-4f4b-8837-e7fe247d7da8",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "e0f9605b-5dad-486e-a378-23728",
-                "option_name": "Flex - 26GB",
-                "order": 8
+                "variant_code": "046cd977-6fd5-4069-92c0-9ccf813fb71f",
+                "option_name": "FlexMini 8GB",
+                "order": 5
             },
             {
                 "family_name": "Apps Quota Xtra Combo Plus 2GB",
@@ -889,7 +889,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 71000,
+        "overwrite_amount": 31000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
