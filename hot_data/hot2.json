@@ -20,7 +20,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
-                "option_name": "500GB",
+                "option_name": "600GB",
                 "order": 3,
                 "price": 0
             }
@@ -84,7 +84,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
-                "option_name": "500GB",
+                "option_name": "600GB",
                 "order": 3,
                 "price": 0
             }
