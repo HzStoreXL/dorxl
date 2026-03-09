@@ -894,6 +894,36 @@
         "amount_idx": -1
     },
     {
+        "name": "Special Ramadan",
+        "price": "Rp16500",
+        "detail": "\nTerms and conditions1. The package can only be purchased during the month of.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Ngabuburit",
+                "family_code": "cf70e73b-612e-49fa-9c86-9ee905b1232c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "c18c9882-9a75-4aac-8062-28bb96578a1a",
+                "option_name": "9GB",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 16500,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
         "name": "family buat hide2 paket ADD ON - prepaid",
         "price": "Rp20000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
