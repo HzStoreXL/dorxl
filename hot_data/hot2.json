@@ -910,7 +910,7 @@
             {
                 "family_name": "QRIS D 0",
                 "family_code": "3f4c0d03-c1b8-451b-a001-f3786f36351b",
-                "is_enterprise": true,
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "6748f8d1-a36f-4646-b71d-8f43b7089c84",
                 "option_name": "QRIS D 0",
