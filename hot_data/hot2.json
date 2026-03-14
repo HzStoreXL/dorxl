@@ -894,6 +894,37 @@
         "amount_idx": -1
     },
     {
+        "name": "Xtra Combo Lite",
+        "price": "Rp91750",
+        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Xtra Combo Lite",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "Bundling Xtra Combo 10GB+10GB & Unlimited Turbo Premium",
+                "order": 150
+            },
+            {
+                "family_name": "",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "",
+                "order": 27
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 91750,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
         "name": "Special Ramadan",
         "price": "Rp16500",
         "detail": "\nTerms and conditions1. The package can only be purchased during the month of.\nSupported payment: E-wallet & QRIS.",
