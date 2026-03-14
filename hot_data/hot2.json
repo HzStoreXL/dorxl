@@ -895,7 +895,7 @@
     },
     {
         "name": "Xtra Combo Lite",
-        "price": "Rp91750",
+        "price": "Rp0",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -919,8 +919,8 @@
             }
         ],
         "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 91750,
+        "ask_overwrite": true,
+        "overwrite_amount": 0,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
