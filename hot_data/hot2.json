@@ -894,34 +894,35 @@
         "amount_idx": -1
     },
     {
-        "name": "Xtra Combo Lite",
-        "price": "Rp1000",
-        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "name": "Swadaya Xlalu Untukmu",
+        "price": "Rp50000",
+        "detail": "\nSwadaya XLalu Untukmu Packages in 4.5G data network.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Xtra Combo Lite",
-                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
-                "is_enterprise": false,
+                "family_name": "Swadaya Xlalu Untukmu",
+                "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+                "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
-                "option_name": "Bundling Xtra Combo 10GB+10GB & Unlimited Turbo Premium",
-                "order": 150
+                "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
+                "option_name": "Swadaya XLalu Untukmu 13GB",
+                "order": 4
             },
             {
-                "family_name": "",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "family_name": "QRIS D 0",
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "variant_name": "QRIS D 0",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
                 "option_name": "",
-                "order": 27
+                "order": 1,
+                "price": 0
             }
         ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": true,
-        "overwrite_amount": 1000,
-        "token_confirmation_idx": 0,
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 50000,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
