@@ -895,7 +895,7 @@
     },
     {
         "name": "Swadaya Xlalu Untukmu",
-        "price": "Rp50000",
+        "price": "Rp51000",
         "detail": "\nSwadaya XLalu Untukmu Packages in 4.5G data network.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -908,20 +908,19 @@
                 "order": 4
             },
             {
-                "family_name": "QRIS D 0",
-                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "family_name": "",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "QRIS D 0",
-                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "variant_name": "",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
                 "option_name": "",
-                "order": 1,
-                "price": 0
+                "order": 27
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 50000,
+        "overwrite_amount": 51000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
