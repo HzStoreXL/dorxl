@@ -864,32 +864,34 @@
         "amount_idx": -1
     },
     {
-        "name": "Conference",
-        "price": "Rp11000",
-        "detail": "\nDescriptionOnline Collaboration and Meetings Easier with Conference Plans.\nSupported payment: E-wallet & QRIS.",
+        "name": "XL Ultra 5G+",
+        "price": "Rp150000",
+        "detail": "\nTerms & Conditions1. XL Ultra 5G+ is an internet package with a 28-day validity.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Conference",
-                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
-                "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 15GB",
-                "order": 3
+                "family_name": "XL Ultra 5G+",
+                "family_code": "4632cfca-72d8-417e-b790-d7ab3a7825f6",
+                "is_enterprise": false,
+                "migration_type": "PACKAGE",
+                "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
+                "option_name": "150GB",
+                "order": 1
             },
             {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "family_name": "QRIS D 0",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
+                "variant_name": "QRIS D 0",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
+                "option_name": "",
+                "order": 2,
+                "price": 0
             }
         ],
-        "payment_for": "",
-        "ask_overwrite": false,
-        "overwrite_amount": 11000,
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": true,
+        "overwrite_amount": 150000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
