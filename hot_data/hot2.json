@@ -1002,13 +1002,13 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
                 "option_name": "",
-                "order": 1,
+                "order": 2,
                 "price": 0
             }
         ],
