@@ -963,7 +963,7 @@
                 "family_name": "XL Ultra 5G+",
                 "family_code": "4632cfca-72d8-417e-b790-d7ab3a7825f6",
                 "is_enterprise": false,
-                "migration_type": "NONE",
+                "migration_type": "PACKAGE",
                 "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
                 "option_name": "75GB",
                 "order": 7
