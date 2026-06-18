@@ -896,34 +896,35 @@
         "amount_idx": -1
     },
     {
-        "name": "Swadaya Xlalu Untukmu",
-        "price": "Rp51000",
-        "detail": "\nSwadaya XLalu Untukmu Packages in 4.5G data network.\nSupported payment: E-wallet & QRIS.",
+        "name": "XL Ultra 5G+",
+        "price": "Rp300000",
+        "detail": "\nTerms & Conditions1. XL Ultra 5G+ is an internet package with a 28-day validity.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Swadaya Xlalu Untukmu",
-                "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
-                "option_name": "Swadaya XLalu Untukmu 13GB",
-                "order": 4
+                "family_name": "XL Ultra 5G+",
+                "family_code": "4632cfca-72d8-417e-b790-d7ab3a7825f6",
+                "is_enterprise": false,
+                "migration_type": "PACKAGE",
+                "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
+                "option_name": "600GB",
+                "order": 2
             },
             {
-                "family_name": "",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "family_name": "QRIS D 0",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "variant_name": "QRIS D 0",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
                 "option_name": "",
-                "order": 27
+                "order": 2,
+                "price": 0
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 51000,
-        "token_confirmation_idx": 1,
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": true,
+        "overwrite_amount": 300000,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
