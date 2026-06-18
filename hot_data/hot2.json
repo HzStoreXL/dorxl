@@ -1024,38 +1024,6 @@
         "amount_idx": -1
     },
     {
-        "name": "FlexMax",
-        "price": "Rp300000",
-        "detail": "\nFlexMax Package Terms & Conditions.\nSupported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "",
-                "family_code": "2c292a32-7749-4947-8ab2-1d83928eae70",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "e0f9605b-5dad-486e-a378-23728",
-                "option_name": "600GB",
-                "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "QRIS D 0",
-                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
-                "option_name": "",
-                "order": 2,
-                "price": 0
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 300000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
         "name": "Pilih Paket",
         "price": "Rp125000",
         "detail": "\nFlexMax Package Terms & Conditions.\nSupported payment: E-wallet & QRIS.",
@@ -1084,6 +1052,38 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 125000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Pilih Paket",
+        "price": "Rp100000",
+        "detail": "\nFlexMax Package Terms & Conditions.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "FlexMax",
+                "family_code": "48041386-a8ce-4f44-a2b7-2a94df7e8c1c",
+                "is_enterprise": false,
+                "migration_type": "PACKAGE",
+                "variant_code": "b03d1438-fad8-4f50-8838-d7eb45dbdf10",
+                "option_name": "FlexMax 52GB",
+                "order": 2
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
+                "option_name": "",
+                "order": 2,
+                "price": 0
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 100000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
