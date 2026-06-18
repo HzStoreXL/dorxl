@@ -1038,7 +1038,7 @@
                 "order": 3
             },
             {
-                "family_name": "QRIS D 0",
+                "family_name": "SERIBU",
                 "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
                 "is_enterprise": false,
                 "migration_type": "NONE",
@@ -1047,7 +1047,7 @@
                 "order": 27
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 10000,
         "token_confirmation_idx": 1,
