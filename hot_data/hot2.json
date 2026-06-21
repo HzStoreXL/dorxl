@@ -1095,7 +1095,7 @@
             {
                 "family_name": "Weekly",
                 "family_code": "22cfa6c3-ba3f-4f4b-8837-e7fe247d7da8",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "046cd977-6fd5-4069-92c0-9ccf813fb71f",
                 "option_name": "7GB",
