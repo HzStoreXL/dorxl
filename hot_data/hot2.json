@@ -1088,18 +1088,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Conference",
-        "price": "Rp10000",
+        "name": "FlexMini",
+        "price": "Rp25000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Conference",
-                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
-                "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 15GB",
-                "order": 3
+                "family_name": "Weekly",
+                "family_code": "22cfa6c3-ba3f-4f4b-8837-e7fe247d7da8",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "046cd977-6fd5-4069-92c0-9ccf813fb71f",
+                "option_name": "7GB",
+                "order": 6
             },
             {
                 "family_name": "QRIS D 100",
@@ -1113,7 +1113,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 10000,
+        "overwrite_amount": 25000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
