@@ -1089,17 +1089,17 @@
     },
     {
         "name": "FlexMini",
-        "price": "Rp25000",
+        "price": "Rp35000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Weekly",
-                "family_code": "22cfa6c3-ba3f-4f4b-8837-e7fe247d7da8",
+                "family_name": "",
+                "family_code": "2c292a32-7749-4947-8ab2-1d83928eae70",
                 "is_enterprise": false,
-                "migration_type": "PACKAGE",
-                "variant_code": "046cd977-6fd5-4069-92c0-9ccf813fb71f",
+                "migration_type": "NONE",
+                "variant_code": "e0f9605b-5dad-486e-a378-23728",
                 "option_name": "7GB",
-                "order": 6
+                "order": 12
             },
             {
                 "family_name": "QRIS 100 K",
@@ -1113,7 +1113,7 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 25000,
+        "overwrite_amount": 35000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
