@@ -114,7 +114,7 @@
                 "family_name": "XL SATU Shared Quota",
                 "family_code": "69c4a625-5c9a-4241-befa-fac1d3692dbb",
                 "is_enterprise": false,
-                "migration_type": "NONE",
+                "migration_type": "PRIOH_TO_PRIO",
                 "variant_name": "XL SATU Shared Quota",
                 "variant_code": "e3929f3b-1787-46a3-9d62-c1a703dd9b7e",
                 "option_name": "XL Satu Shared Kuota 25GB",
