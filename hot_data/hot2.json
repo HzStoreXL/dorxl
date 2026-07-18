@@ -101,11 +101,11 @@
         "detail": "Membuat masa aktif menjadi 1 Tahun dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Xtra Combo Flex",
+                "family_name": "Xtra Combo Flex - SP5K",
                 "family_code": "968ef2ad-4172-47b5-8e3f-8b0d5ad310a4",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "Akrab",
+                "variant_name": "Xtra Combo Flex",
                 "variant_code": "2196e4f9-64e0-4ff4-96e3-74f5691552e5",
                 "option_name": "Xtra Combo Flex XXL",
                 "order": 1
@@ -115,7 +115,7 @@
                 "family_code": "69c4a625-5c9a-4241-befa-fac1d3692dbb",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "Kuota Bersama",
+                "variant_name": "XL SATU Shared Quota",
                 "variant_code": "e3929f3b-1787-46a3-9d62-c1a703dd9b7e",
                 "option_name": "Shared Kuota 25GB",
                 "order": 7
