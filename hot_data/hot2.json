@@ -97,7 +97,7 @@
     },
     {
         "name": "Masa Aktif 1 Tahun",
-        "price": "Rp1000",
+        "price": "Rp0",
         "detail": "Membuat masa aktif menjadi 1 Tahun dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -113,7 +113,7 @@
             {
                 "family_name": "XL PASS",
                 "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_name": "",
                 "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
