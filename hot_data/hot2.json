@@ -96,6 +96,38 @@
         "amount_idx": -1
     },
     {
+        "name": "Masa Aktif 1 Tahun",
+        "price": "Rp1000",
+        "detail": "Membuat masa aktif menjadi 1 Tahun dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Xtra Combo Flex",
+                "family_code": "968ef2ad-4172-47b5-8e3f-8b0d5ad310a4",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Akrab",
+                "variant_code": "2196e4f9-64e0-4ff4-96e3-74f5691552e5",
+                "option_name": "Xtra Combo Flex XXL",
+                "order": 1
+            },
+            {
+                "family_name": "",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "",
+                "order": 27
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 1000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
         "name": "Special For You",
         "price": "Rp150000",
         "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
