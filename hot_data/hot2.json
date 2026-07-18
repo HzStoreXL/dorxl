@@ -97,7 +97,7 @@
     },
     {
         "name": "Masa Aktif 1 Tahun",
-        "price": "Rp1000",
+        "price": "Rp0",
         "detail": "Membuat masa aktif menjadi 1 Tahun dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
