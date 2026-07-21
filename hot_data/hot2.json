@@ -111,19 +111,19 @@
                 "order": 1
             },
             {
-                "family_name": "XL PASS",
-                "family_code": "fff99b6b-5a5d-4ba4-a55b-38f6aca6f91d",
+                "family_name": "XL PASS LITE",
+                "family_code": "7fed7aa1-946f-44ce-9eb4-488a7e15c68a",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "6986897d-9f09-4651-ac24-6efdf3dbcf3d",
-                "option_name": "XL PASS 20 days",
+                "variant_code": "c7fef91f-c5fa-4a0d-8762-0f514837d276",
+                "option_name": "XL PASS LITE",
                 "order": 1,
-                "price": 800000
+                "price": 138000
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 800000,
+        "overwrite_amount": 138000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
