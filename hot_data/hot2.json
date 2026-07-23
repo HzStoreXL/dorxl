@@ -1175,8 +1175,8 @@
                 "order": 27
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": true,
+        "payment_for": "SHARE PACKAGE",
+        "ask_overwrite": false,
         "overwrite_amount": 11000,
         "token_confirmation_idx": 0,
         "amount_idx": -0
