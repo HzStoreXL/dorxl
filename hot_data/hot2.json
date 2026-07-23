@@ -22,12 +22,12 @@
                 "variant_code": "6986897d-9f09-4651-ac24-6efdf3dbcf3d",
                 "option_name": "XL PASS 20 Days",
                 "order": 1,
-                "price": 0
+                "price": 800000
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 889750,
+        "overwrite_amount": 800000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
