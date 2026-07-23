@@ -1153,7 +1153,7 @@
     },
     {
         "name": "Conference",
-        "price": "Rp11000",
+        "price": "Rp10000",
         "detail": "\nDescriptionOnline Collaboration and Meetings Easier with Conference Plans.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -1175,11 +1175,11 @@
                 "order": 27
             }
         ],
-        "payment_for": "SHARE PACKAGE",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 11000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -0
+        "overwrite_amount": 10000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     },
     {
         "name": "family buat hide2 paket ADD ON - prepaid",
