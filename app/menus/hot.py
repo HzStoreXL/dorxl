@@ -236,7 +236,7 @@ def show_hot_menu2():
                     show_multipayment(api_key, tokens, payment_items, payment_for, 
                                       selected_package.get("ask_overwrite", False),
                                       selected_package.get("overwrite_amount", -1),
-                                      selected_package.get("token_confirmation_idx", 1),
+                                      selected_package.get("token_confirmation_idx", 0),
                                       selected_package.get("amount_idx", -1))
                     input(f"{bcolors.OKGREEN}Tekan enter untuk kembali...{bcolors.ENDC}")
                     in_payment_menu = False
@@ -245,7 +245,7 @@ def show_hot_menu2():
                     show_qris_payment(api_key, tokens, payment_items, payment_for, 
                                       selected_package.get("ask_overwrite", False),
                                       selected_package.get("overwrite_amount", -1),
-                                      selected_package.get("token_confirmation_idx", 1),
+                                      selected_package.get("token_confirmation_idx", 0),
                                       selected_package.get("amount_idx", -1))
                     input(f"{bcolors.OKGREEN}Tekan enter untuk kembali...{bcolors.ENDC}")
                     in_payment_menu = False
