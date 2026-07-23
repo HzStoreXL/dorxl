@@ -1153,14 +1153,14 @@
     },
     {
         "name": "Conference",
-        "price": "Rp10000",
+        "price": "Rp11000",
         "detail": "\nDescriptionOnline Collaboration and Meetings Easier with Conference Plans.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "Conference",
                 "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
                 "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIOH",
+                "migration_type": "PRIOH_TO_PRIO",
                 "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
                 "option_name": "Conference 15GB",
                 "order": 3
@@ -1177,9 +1177,9 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": true,
-        "overwrite_amount": 10000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "overwrite_amount": 11000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -0
     },
     {
         "name": "family buat hide2 paket ADD ON - prepaid",
