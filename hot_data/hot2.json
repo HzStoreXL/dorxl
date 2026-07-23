@@ -1177,11 +1177,11 @@
                 "price": 1000
             }
         ],
-        "payment_items": "SHARE_PACKAGE",
+        "show_qris_payment": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 11000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "token_confirmation_idx": 0,
+        "amount_idx": -0
     },
     {
         "name": "family buat hide2 paket ADD ON - prepaid",
