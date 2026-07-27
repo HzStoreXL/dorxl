@@ -1152,18 +1152,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Conference",
-        "price": "Rp11000",
-        "detail": "\nDescriptionOnline Collaboration and Meetings Easier with Conference Plans.\nSupported payment: E-wallet & QRIS.",
+        "name": "Apps Quota",
+        "price": "Rp56500",
+        "detail": "\nDescriptionAccess for ZOOM, Microsoft Teams, Ruangguru.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Conference",
-                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "family_name": "Apps Quota",
+                "family_code": "2fc1caea-04f6-4ddb-b8e5-ffc34be6e743",
                 "is_enterprise": true,
                 "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 15GB",
-                "order": 3
+                "variant_code": "54369e3b-d5c0-4fd5-a82d-433080f80eb6",
+                "option_name": "PRIO Bekerja & Belajar 50GB",
+                "order": 5
             },
             {
                 "family_name": "QRIS D 0",
@@ -1179,7 +1179,7 @@
         ],
         "payment_method": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 11000,
+        "overwrite_amount": 56500,
         "token_confirmation_idx": 0,
         "amount_idx": -0
     },
