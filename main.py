@@ -26,7 +26,7 @@ from app.menus.store.segments import show_store_segments_menu
 from app.menus.store.search import show_family_list_menu, show_store_packages_menu
 from app.menus.store.redeemables import show_redeemables_menu
 from app.menus.bot import run_edubot
-from app.client.registration import reg-puk
+from app.client.registration import reg_puk
 from app.menus.util import format_quota_byte
 
 WIDTH = 55
@@ -608,7 +608,7 @@ def main():
                 nik = input("Enter NIK: ")
                 kk = input("Enter KK: ")
                 
-                res = reg-puk(
+                res = reg_puk(
                     AuthInstance.api_key,
                     msisdn,
                     kk,
