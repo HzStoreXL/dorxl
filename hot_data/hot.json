@@ -1328,6 +1328,14 @@
         "order": 5
     },
     {
+        "family_name": "Apps Quota",
+        "family_code": "2fc1caea-04f6-4ddb-b8e5-ffc34be6e743",
+        "is_enterprise": true,
+        "variant_name": "Apps Quota",
+        "option_name": "PRIO Bekerja & Belajar 50GB",
+        "order": 5
+    },
+    {
         "family_name": "Xtra Combo Plus",
         "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
         "is_enterprise": false,
