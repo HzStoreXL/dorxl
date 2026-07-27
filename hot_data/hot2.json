@@ -1160,7 +1160,7 @@
                 "family_name": "Apps Quota",
                 "family_code": "2fc1caea-04f6-4ddb-b8e5-ffc34be6e743",
                 "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
+                "migration_type": "PRIOH_TO_PRIOH",
                 "variant_code": "54369e3b-d5c0-4fd5-a82d-433080f80eb6",
                 "option_name": "PRIO Bekerja & Belajar 50GB",
                 "order": 5
