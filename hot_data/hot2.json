@@ -1177,11 +1177,11 @@
                 "price": 6000
             }
         ],
-        "payment_method": "VALID_IS_FALSE",
+        "payment_method": "SHARE PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 10000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -0
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     },
     {
         "name": "family buat hide2 paket ADD ON - prepaid",
