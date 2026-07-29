@@ -1152,34 +1152,34 @@
         "amount_idx": -1
     },
     {
-        "name": "Apps Quota",
-        "price": "Rp56500",
+        "name": "Conference",
+        "price": "Rp10000",
         "detail": "\nDescriptionAccess for ZOOM, Microsoft Teams, Ruangguru.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Apps Quota",
-                "family_code": "2fc1caea-04f6-4ddb-b8e5-ffc34be6e743",
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
                 "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "54369e3b-d5c0-4fd5-a82d-433080f80eb6",
-                "option_name": "PRIO Bekerja & Belajar 50GB",
-                "order": 5
+                "migration_type": "PRIOH_TO_PRIO",
+                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+                "option_name": "Conference 15GB",
+                "order": 3
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "family_code": "3f12a163-d66d-47dd-b9c5-2307d7c9a07b",
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "QRIS D 0",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "variant_code": "7b66838e-f0ea-4822-9718-60bcc1ce478e",
                 "option_name": "",
-                "order": 27,
-                "price": 1000
+                "order": 3,
+                "price": 0
             }
         ],
         "payment_method": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 56500,
+        "overwrite_amount": 10000,
         "token_confirmation_idx": 0,
         "amount_idx": -0
     },
