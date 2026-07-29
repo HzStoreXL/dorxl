@@ -1177,7 +1177,7 @@
                 "price": 6000
             }
         ],
-        "payment_method": "SHARE PACKAGE",
+        "payment_method": "VALID_IS_FALSE",
         "ask_overwrite": false,
         "overwrite_amount": 10000,
         "token_confirmation_idx": 0,
