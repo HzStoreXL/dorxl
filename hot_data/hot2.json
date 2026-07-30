@@ -1152,18 +1152,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Conference",
-        "price": "Rp10000",
+        "name": "FlexMax",
+        "price": "Rp125000",
         "detail": "\nDescriptionAccess for ZOOM, Microsoft Teams, Ruangguru.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Conference",
-                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
-                "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 15GB",
-                "order": 3
+                "family_name": "",
+                "family_code": "2c292a32-7749-4947-8ab2-1d83928eae70",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "e0f9605b-5dad-486e-a378-23728",
+                "option_name": "100GB",
+                "order": 4
             },
             {
                 "family_name": "QRIS D 0",
@@ -1177,9 +1177,9 @@
                 "price": 6000
             }
         ],
-        "token_payment": "SHARE PACKAGE",
+        "token_payment": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 10000,
+        "overwrite_amount": 125000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
