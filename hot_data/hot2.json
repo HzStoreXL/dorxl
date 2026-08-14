@@ -888,7 +888,7 @@
                 "price": 800000
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 0,
         "token_confirmation_idx": 1,
