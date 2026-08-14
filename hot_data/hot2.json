@@ -864,6 +864,38 @@
         "amount_idx": -1
     },
     {
+        "name": "Xtra Combo Lite",
+        "price": "Rp0",
+        "detail": "\nXtra Combo VIP Plus Gift  with rollover quota, immediate access to.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "eSIM Free Trial",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "fff99b6b-5a5d-4ba4-a55b-38f6aca6f91d",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "6986897d-9f09-4651-ac24-6efdf3dbcf3d",
+                "option_name": "",
+                "order": 1,
+                "price": 0
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 800000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "Akrab Big",
         "price": "Rp65000",
         "detail": "\nLarge internet quota to SHARE with family and friends, with personal.\nSupported payment: E-wallet & QRIS.",
